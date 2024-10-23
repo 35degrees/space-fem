@@ -73,7 +73,7 @@ function classFalse() {
 }
 
 </script>
-<div class="absolute w-screen h-screen bg-cover bg-center bg-no-repeat sm:bg-[url('src/lib/assets/destination/background-destination-mobile.jpg')] top-0 md:bg-[url('src/lib/assets/destination/background-destination-tablet.jpg')] lg:bg-[url('src/lib/assets/destination/background-destination-desktop.jpg')] -z-20"></div>
+<div class="absolute w-screen h-screen bg-cover bg-center bg-no-repeat sm:bg-[url('https://github.com/35degrees/space-fem/blob/main/src/lib/assets/destination/background-destination-mobile.jpg?raw=true')] top-0 md:bg-[url('https://github.com/35degrees/space-fem/blob/main/src/lib/assets/destination/background-destination-tablet.jpg?raw=true')] lg:bg-[url('https://github.com/35degrees/space-fem/blob/main/src/lib/assets/destination/background-destination-desktop.jpg?raw=true')] -z-20"></div>
 <section in:fade={{duration:260, delay:720}} id="destination" class="relative">
   <div class="container flex flex-col justify-center items-center gap-1 mx-auto mt-48 py-6 lg:flex-row lg:gap-0 md:relative lg:h-[800px] ">
 

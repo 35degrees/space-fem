@@ -11,7 +11,7 @@
 
   </script>
   
-  <div class="absolute w-screen h-screen top-0 bg-cover bg-center bg-no-repeat sm:bg-[url('src/lib/assets/technology/background-technology-mobile.jpg')] md:bg-[url('src/lib/assets/technology/background-technology-tablet.jpg')] lg:bg-[url('src/lib/assets/technology/background-technology-desktop.jpg')] -z-20"></div>
+  <div class="absolute w-screen h-screen top-0 bg-cover bg-center bg-no-repeat sm:bg-[url('https://github.com/35degrees/space-fem/blob/main/src/lib/assets/technology/background-technology-mobile.jpg?raw=true')] md:bg-[url('https://github.com/35degrees/space-fem/blob/main/src/lib/assets/technology/background-technology-tablet.jpg?raw=true')] lg:bg-[url('https://github.com/35degrees/space-fem/blob/main/src/lib/assets/technology/background-technology-desktop.jpg?raw=true')] -z-20"></div>
   <section in:fade={{duration:260, delay:720}} id="technology" class="relative">
   
     <div class="container flex flex-col text-center items-center justify-center gap-4 mx-auto mt-48 sm:mt-36 md:mt-60 gap-8 lg:flex-row lg:mt-60 lg:h-[800px] md:relative">

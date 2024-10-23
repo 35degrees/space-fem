@@ -57,8 +57,8 @@ const updateCurrPage = (e) => {
   <div class="relative container flex flex-row items-center justify-between mx-auto pt-14 md:pt-10">
     <div class="hidden md:block top-[48px] md:left-[8rem] lg:left-[45%] backdrop-blue bg-white/10 absolute backdrop-blur border-none py-12 w-[100rem]"></div>
     <div class="pt-2 lg:w-1/2 px-6 relative">
-      <img src="src/lib/assets/shared/logo.svg" alt="logo">
-      <img src="src/lib/assets/shared/logo.svg" alt="logo" class="absolute top-0 left-0 pt-2 px-6">
+      <img src="https://raw.githubusercontent.com/35degrees/space-fem/refs/heads/main/src/lib/assets/shared/logo.svg" alt="logo">
+      <img src="https://raw.githubusercontent.com/35degrees/space-fem/refs/heads/main/src/lib/assets/shared/logo.svg" alt="logo" class="absolute top-0 left-0 pt-2 px-6">
       <div class="header-line ml-[20%] relative top-[-25px] hidden lg:block lg:w-[90%] h-[0.5px] bg-white opacity-30 z-30"></div>
     </div>
     <ul bind:this={ul} class="grid-auto-fit counter md:md-counter relative hidden md:w-[85%] lg:w-[55%] mt-1 md:flex flex-row justify-end items-center md:gap-6 lg:gap-10 lg:px-8 md:px-6" on:mouseenter={classTrue} on:mouseleave={classFalse}>

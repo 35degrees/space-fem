@@ -8,7 +8,7 @@
   let currCrewIndex = 0
   </script>
   
-  <div class="absolute w-screen h-screen bg-cover bg-center bg-no-repeat top-0 sm:bg-[url('src/lib/assets/crew/background-crew-mobile.jpg')] md:bg-[url('src/lib/assets/crew/background-crew-tablet.jpg')] lg:bg-[url('src/lib/assets/crew/background-crew-desktop.jpg')] -z-20"></div>
+  <div class="absolute w-screen h-screen bg-cover bg-center bg-no-repeat top-0 sm:bg-[url('https://github.com/35degrees/space-fem/blob/main/src/lib/assets/crew/background-crew-mobile.jpg?raw=true')] md:bg-[url('https://github.com/35degrees/space-fem/blob/main/src/lib/assets/crew/background-crew-tablet.jpg?raw=true')] lg:bg-[url('https://github.com/35degrees/space-fem/blob/main/src/lib/assets/crew/background-crew-desktop.jpg?raw=true')] -z-20"></div>
 
   <section in:fade={{duration:260, delay:720}} id="crew" class="md:relative">
   
